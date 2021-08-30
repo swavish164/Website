@@ -1,0 +1,23 @@
+
+body {
+  text-align: center;
+  background-color: #adbcbd;
+  font-family: "Verdana"
+
+}
+h1 {
+  text-align: center;
+  color: #ffffff;
+  font-family: "Copperplate"
+}
+h2{
+  text-align: center;
+  color: #000000;
+  color: #ffffff;
+  font-family: "Times New Roman"
+}
+
+
+.box{
+  border: 10px double #63bfc7;
+}
